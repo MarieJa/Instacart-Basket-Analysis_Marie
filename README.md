@@ -16,3 +16,6 @@ often do they return to Instacart)?
 <br/>● Are there differences in ordering habits based on a customer’s loyalty status?
 <br/>Are there differences in ordering habits based on a customer’s region?
 <br/>● Is there a connection between age and family status in terms of ordering habits?
+
+
+Study assignment - CareerFoundry
