@@ -20,4 +20,4 @@ often do they return to Instacart)?
 The key questions are answered in the uploaded Python files.
 
 
-**Study assignment - CareerFoundry**
+### **Study assignment - CareerFoundry**
