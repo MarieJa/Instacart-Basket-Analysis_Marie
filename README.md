@@ -17,7 +17,7 @@ often do they return to Instacart)?
 <br/>Are there differences in ordering habits based on a customer’s region?
 <br/>● Is there a connection between age and family status in terms of ordering habits?
 
-I´ve answered the key questions in the uploaded Python files.
+The key questions are answered in the uploaded Python files.
 
 
-Study assignment - CareerFoundry
+**Study assignment - CareerFoundry**
