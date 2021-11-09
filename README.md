@@ -1,4 +1,4 @@
-# Instacart Basket Analysis_Marie
+# Instacart Basket Analysis_Marie                                                       
 <br/> Instacart, an online grocery store that operates through an app. <br/> Instacart already has very good sales, but they want to uncover more information about their sales patterns. 
 <br/> They want to target different customers with applicable marketing campaigns to see whether they have an effect on the sale of their products.
 
