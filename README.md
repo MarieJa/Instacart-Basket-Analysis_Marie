@@ -15,7 +15,7 @@
 <br/> - Is there a connection between age and family status in terms of ordering habits?
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-The key questions are answered in the uploaded Python files.
+The key questions are answered in the uploaded Jupyter notebooks and compiled in the Excel file in "05 Send to client" folder.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Folder Overview
